@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e269ceab8787d8459d59c92412ef367, type: 3}
+  m_Name: EdibleData
+  m_EditorClassIdentifier: 
+  EdiblesList:
+  - EdibleType: 4
+    EdiblePrefab: {fileID: 3440252167525510832, guid: c1a00b36ea992224c8b95e95fb1ea4e8, type: 3}
+  - EdibleType: 1
+    EdiblePrefab: {fileID: 4503400531872346396, guid: ae7c8dcd6e7ccd04cb060ef71cc08f81, type: 3}
+  - EdibleType: 2
+    EdiblePrefab: {fileID: 611910379102767573, guid: b2c687cd5dfc17f4fb2406094123f0f5, type: 3}
+  - EdibleType: 0
+    EdiblePrefab: {fileID: 5411790239624580266, guid: 3b2efa02fbce23c43a18e296bdeaa458, type: 3}
+  - EdibleType: 3
+    EdiblePrefab: {fileID: 349976562698295691, guid: 8dc5905d88187184aae94e97c908be44, type: 3}
