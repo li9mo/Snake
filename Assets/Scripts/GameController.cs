@@ -57,8 +57,7 @@ public class GameController : MonoBehaviour
     private int _score = 0;
     private bool _isFinished=true;
     
-    public delegate void IntUpdate(int value);
-    public IntUpdate OnScoreChanged;
+    public Action<int> OnScoreChanged;
     public Action OnGameOver;
     public Action OnGameStart;
 
